@@ -1,0 +1,13 @@
+{
+  "model_name": "klue/bert-base",
+  "seed": 42,
+  "max_len": 128,
+  "threshold": 0.5,
+  "best_epoch": 4,
+  "validation_f1": 0.8283828382838284,
+  "split_sizes": {
+    "train": 4074,
+    "validation": 873,
+    "test": 874
+  }
+}

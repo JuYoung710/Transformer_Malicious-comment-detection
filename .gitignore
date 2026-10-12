@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/
+model/**/*.safetensors
+model/**/*.bin
+model/**/*.pt
+model/**/tokenizer*.json
+model/**/config.json
+model/**/vocab.txt
+.env
+.env.*
